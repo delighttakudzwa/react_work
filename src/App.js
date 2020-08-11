@@ -42,7 +42,7 @@ class App extends Component{
     const style = {
       backgroundColor: 'white',
       front: 'inherit',
-      border: '1x solid blue',
+      border: '2x solid blue',
       padding: '8px',
     }; 
     return(
